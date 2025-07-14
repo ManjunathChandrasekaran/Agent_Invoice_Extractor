@@ -1,0 +1,46 @@
+{
+  "invoice_number": "NL57EPAS7793742478",
+  "invoice_date": "12-05-2023",
+  "vendor_name": "NearBy Electronics",
+  "vendor_address": "3741 Glory Road, Jamestown, Tennessee, USA",
+  "line_items": [
+    {
+      "description": "Rustic Rubber Gloves",
+      "quantity": 102,
+      "unit_price": 29.0,
+      "total": 2958.0
+    },
+    {
+      "description": "Fantastic Granite Salad",
+      "quantity": 39,
+      "unit_price": 27.0,
+      "total": 1053.0
+    },
+    {
+      "description": "Small Fresh Salad",
+      "quantity": 95,
+      "unit_price": 69.0,
+      "total": 6555.0
+    },
+    {
+      "description": "Fantastic Metal Chips",
+      "quantity": 67,
+      "unit_price": 49.0,
+      "total": 3283.0
+    },
+    {
+      "description": "Refined Cotton Pants",
+      "quantity": 79,
+      "unit_price": 72.0,
+      "total": 5688.0
+    },
+    {
+      "description": "Ergonomic Concrete Towels",
+      "quantity": 35,
+      "unit_price": 22.0,
+      "total": 770.0
+    }
+  ],
+  "total_amount": 22337.7,
+  "currency": "USD"
+}
